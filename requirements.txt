@@ -1,0 +1,8 @@
+numba
+numpy
+pandas
+pytest
+pytest-cov
+scikit-learn>=1.0.*
+scipy
+statsmodels>=0.12.1
